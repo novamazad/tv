@@ -1,0 +1,14 @@
+#EXTINF:-1 group-title="INDONESIA",TRANS 7
+https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0rkAAzFYkHTA1Fs0PI8EZm3FVZ5osphs1Fq0dZY1zb9)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2-avc1_1000000=5-2576146042692444.mp4
+#EXTINF:-1 group-title="INDONESIA",ANTV
+https://stream-04.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfHTZNTUfwLzwwFwzSEgC8rOGdZmigKGpIs3ZSAM5I_eP)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
+#EXTINF:-1 group-title="INDONESIA",RCTI
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677725481-d79b2c14fd89c33209747b3cfb6f4c03-4I8tmS8uYSDa2OXE9YlXYzMRcaf4KT0Tazkc0d7v-70cb6b3c219fbcb06c28cb66a7e5ab51
+#EXTINF:-1 group-title="INDONESIA",MNCTV
+https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677726541-3ffdd1ce16da88c7a51228c9968f4c5e-SDShQNYg8gjn7PQDzbHT1ZhnzMLKk00V4wcA4590-1124260257b2f93d176ada6621c32341
+#EXTINF:-1 group-title="INDONESIA",GTV
+https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726601-813c9137934c7e7d53876163fa467799-MoH0h5d9v0aSakksxwlRtuBzP3gePSKWekPAQsVk-b04dc4b8ceb05f8726edbac35d9fb720
+#EXTINF:-1 group-title="INDONESIA",INEWS
+https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726652-9c66286b5662b7d5d960fb655cdac2dd-6DXlgMXoMy3IaWnJRWNVpNtUncuKKMMjOsga6mny-25c048b792e48c25e0add5ebe585c68b
