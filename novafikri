@@ -2,6 +2,8 @@
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0rkAAzFYkHTA1Fs0PI8EZm3FVZ5osphs1Fq0dZY1zb9)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
 #EXTINF:-1 group-title="INDONESIA",TRANS TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2-avc1_1000000=5-2576146042692444.mp4
+#EXTINF:-1 group-title="INDONESIA",TRANS TV DAILYMOTION
+https://stream-05.sg1.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kTVv3gYcvTeqe_uUub3o-nEdeDdn9fUngm0MolrMJcG-)/dm/3/x8blyd0/s/live-0.m3u8#cell=lsg1
 #EXTINF:-1 group-title="INDONESIA",ANTV
 https://stream-04.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfHTZNTUfwLzwwFwzSEgC8rOGdZmigKGpIs3ZSAM5I_eP)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
 #EXTINF:-1 group-title="INDONESIA",RCTI
@@ -12,3 +14,7 @@ https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1
 https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726601-813c9137934c7e7d53876163fa467799-MoH0h5d9v0aSakksxwlRtuBzP3gePSKWekPAQsVk-b04dc4b8ceb05f8726edbac35d9fb720
 #EXTINF:-1 group-title="INDONESIA",INEWS
 https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726652-9c66286b5662b7d5d960fb655cdac2dd-6DXlgMXoMy3IaWnJRWNVpNtUncuKKMMjOsga6mny-25c048b792e48c25e0add5ebe585c68b
+#EXTINF:-1 group-title="INDONESIA",TRANS TV Detik.com
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w209344491_b744100_sleng.m3u8
+#EXTINF:-1 group-title="INDONESIA",MNC SPORT
+https://sv1.mixstreams.net/nyanv//live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD-avc1_2499968=4-2576160330000000.mp4
